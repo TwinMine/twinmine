@@ -1,5 +1,5 @@
 ### Hi there 👋
-Currently busy with learning... 🌱
+Still busy with learning... 🌱
 
 <!--
 **TwinMine/twinmine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
