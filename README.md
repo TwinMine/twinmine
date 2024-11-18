@@ -1,5 +1,7 @@
 👋 Hello, world!
-I'm a passionate web developer, curious problem solver, and lifelong learner. From crafting clean, efficient code to exploring cutting-edge technologies, I thrive on turning ideas into reality. 🚀
+
+I'm a passionate web developer, curious problem solver, and lifelong learner. 
+From crafting clean, efficient code to exploring cutting-edge technologies, I thrive on turning ideas into reality. 🚀
 
 ✨ What I love:
 
